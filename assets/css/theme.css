@@ -81,9 +81,15 @@ body.has-sticky-header {
  fill: var( --e-global-color-d60dc42 ) !important;
 }
 
-/* .desktop-header.scrolled-header .headerSearch:hover .elementor-icon svg {
+
+
+.desktop-header.scrolled-header .headerSearch:hover .elementor-icon svg {
 	fill: var(--e-global-color-d5aa1ef) !important;
-} */
+}
+ 
+.scrolled-header .elementor-element.elementor-element-7f6f688.elementor-view-default .elementor-icon svg{
+ fill: var( --e-global-color-d60dc42 ) !important;  
+}
 
 /* home page attorney slider */
 .h-100 {
